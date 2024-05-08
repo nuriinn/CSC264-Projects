@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <style>
+            h1{
+               color:pink ;
+               text-align: center;
+                font size: 20px;
+            }
+            h2{
+                color: blue;
+            }
+        </style>
+    </head>
+    <body>
+        <h1> Selamat Hari Raya</h1>
+        <h2> Maaf zahir dan batin</h2>
+    </body>
+</html>
